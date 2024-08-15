@@ -1,2 +1,3 @@
 # Projects-2024
-Personal and academic projects worked on throughout 2023
+
+Currently working on trade-identification algorithm project(2024-08-15)
